@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ankramirez
 - 👀 I’m interested in Data Science and Machine Learning, specially in the health sector.
-- 🌱 I’m currently learning Python, R, and other tools for Data Science.
-- 💞️ I’m looking to collaborate on the health sector but not exclusively, I enjoy working with data and making sense out of it, therefore I'd be willing and probaly enjoyed working with practically any dataset.
+- 🌱 I’m currently brushing my abilities with databases and Machine Learning using TensorFlow.
+- 💞️ I enjoy working with data and making sense out of it, therefore I'd be willing and probaly would enjoy working with practically any dataset!
+- I had the oportunity to work in the health sector, more specifically in Radiotherapy, for more than 3 years where I was able to see an update on Radiotherapy (EBRT and BT) worth of 30 years. Now I've have the ambition to help in the latest updates in this field. 
 - 📫 How to reach me akrp.fisica@gmail.com
 
 <!---
