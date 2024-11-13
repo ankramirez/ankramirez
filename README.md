@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankramirez
-- 👀 I’m interested in Data Science, Machine Learning and MLOps.
+- 👀 I’m interested in Generative AI and MLOps.
 - 🌱 I’m currently brushing my abilities with Data Engineering and MLOps.
 - 💞️ I enjoy working with data and making sense out of it, I'd enjoy working with practically any dataset!
 
